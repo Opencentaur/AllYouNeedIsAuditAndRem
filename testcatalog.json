@@ -1,0 +1,27 @@
+{
+
+  "id":"au-cookies-01",
+
+  "name": "Cookies audit",
+
+  "description": Vérifier si des cookies sont bla bla blab lab lalbablab lablalbabl ablablalba blablablalbabl ablablalb abla blabla lbablablab lalba blablablalba
+
+}
+{
+
+  "id":"au-passwordfield-01",
+
+  "name": "audit password",
+
+  "description": Vérifier si des mires auth sont bla bla blab lab lalbablab lablalbabl ablablalba blablablalbabl ablablalb abla blabla lbablablab lalba blablablalba
+
+}
+{
+
+  "id":"au-passwordfield-02",
+
+  "name": "audit password fort",
+
+  "description": Vérifier si des mires auth sont super  bla bla blab lab lalbablab lablalbabl ablablalba blablablalbabl ablablalb abla blabla lbablablab lalba blablablalba
+
+}
